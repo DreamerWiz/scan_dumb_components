@@ -16,4 +16,4 @@ It will take the default component as the root, and generate the relations like 
 
 ## Any Suggestions
 
-Please contain wizdaydream@gmail.com or directly message me on Github to improve the repo.
+Please contact wizdaydream@gmail.com or directly message me on Github to improve the repo.
